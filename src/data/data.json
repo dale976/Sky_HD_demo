@@ -1,0 +1,36 @@
+{
+	"tiles": [
+		{
+			"title": 	"TV Guide",
+			"synopsis": "Browse all the channels and see what's on over the next seven days."
+		},
+		{
+			"title": 	"Planner",
+			"synopsis": "Find all the TV shows and movies you've recorded or downloaded."
+		},
+		{
+			"title": 	"Catch Up TV",
+			"synopsis": "Catch up on shows you've missed from up to the last 30 days."
+		},
+		{
+			"title": 	"TV Box Sets",
+			"synopsis": "Watch entire series of the latest and greatest shows whenever you want."
+		},
+		{
+			"title": 	"New & Recommended",
+			"synopsis": "Search for new entertainment series and catch up from the start. "
+		},
+		{
+			"title": 	"Sports",
+			"synopsis": "Watch the latest live sports with the best commentary"
+		},
+		{
+			"title": 	"Sky Movies On Demand",
+			"synopsis": "Enjoy hundreds of movies on demand, including the latest premieres."
+		},
+		{
+			"title": 	"Sky Store",
+			"synopsis": "Find a wide choice of movies to rent or buy, from blockbusters to classics."
+		}
+	]
+}
